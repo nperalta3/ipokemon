@@ -6,22 +6,6 @@
 
 [TOC]
 
-## Entrega inicial
-
-### Descripció del meu joc
-
-<p>Comencem amb el primer combat "Ronda 1" i el nostre pokemon inicial serà Pikachu (coherent amb la imatge del menú).</p>
-<p>
-Es tracta de guanyar combats contra altres pokemons salvatges.
-Quan arribem a guanyar certs combats ens tocarà lluitar contra el pokemon final. 
-</p>
-<p>Per lluitar, haurem de fer  click sobre el pokemon rival i ens descomptara 'x' de vida. <p>
-<p>Haurem perdut quan, el temporitzador sigui 0 sense matar-lo.</p>
-<p>La dificultat serà, cada ronda, amb un temps diferent per fer-lo més dificil.</p>
-<p>Haurem guanyat el joc quan guanyem a l'ultim pokemon. </p>
-
-## Entrega final
-
 ### Descripció del meu joc
 
 <p>Es tracta d'un joc d'estil minimalista, que funciona fent interaccions mitjançant el botó esquerre del ratoli, que implementa diverses funcionalitats, per exemple, 
