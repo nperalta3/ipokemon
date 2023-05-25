@@ -2,9 +2,6 @@
 
 **Taula de continguts**
 
-</br>
-
-[TOC]
 
 ### Descripció del meu joc
 
