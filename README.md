@@ -1,8 +1,5 @@
 # Documentació oficial
 
-**Taula de continguts**
-
-
 ## Descripció del meu joc
 
 <p>Es tracta d'un joc d'estil minimalista, que funciona fent interaccions mitjançant el botó esquerre del ratoli, que implementa diverses funcionalitats, per exemple, 
